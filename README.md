@@ -1,5 +1,5 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+#date:28.12.24
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -43,6 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+[edm new1.pdf](https://github.com/user-attachments/files/18266796/edm.new1.pdf)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
